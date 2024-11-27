@@ -5,7 +5,7 @@ from fetch_news import fetch_news_data
 from airflow.contrib.operators.snowflake_operator import SnowflakeOperator
 
 default_args = {
-    'owner': 'growdataskills',
+    'owner': 'datawale',
     'depends_on_past': False,
     'email_on_failure': False,
     'email_on_retry': False,
