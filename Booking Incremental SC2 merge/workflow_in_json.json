@@ -1,7 +1,7 @@
 {
   "job_id": 903267731190363,
-  "creator_user_name": "datawalebhaiya219@gmail.com",
-  "run_as_user_name": "datawalebhaiya219@gmail.com",
+  "creator_user_name": "biswalsatish55@gmail.com",
+  "run_as_user_name": "biswalsatish55@gmail.com",
   "run_as_owner": true,
   "settings": {
     "name": "travel_and_hospitality_daly_data_process_etl",
@@ -16,7 +16,7 @@
         "task_key": "booking_data_process_with_scd2",
         "run_if": "ALL_SUCCESS",
         "notebook_task": {
-          "notebook_path": "/Workspace/Users/datawalebhaiya219@gmail.com/icremental_booking_data_processing",
+          "notebook_path": "/Workspace/Users/biswalsatish55@gmail.com/icremental_booking_data_processing",
           "source": "WORKSPACE"
         },
         "existing_cluster_id": "0720-170353-e1pduod9",
